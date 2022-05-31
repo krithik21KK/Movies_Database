@@ -29,8 +29,8 @@ SELECT movie_name,lead_actor,actress,year_of_release,director_name FROM movies W
 SELECT movie_name FROM movies WHERE lead_actor='Prabhas' AND actress='Anushka' AND year_of_release=2016;
 
 
--- 4. Retrieving all the attributes from 'movies' table whose 'year_of_release' between 2018,2020
-SELECT movie_name,lead_actor,actress,year_of_release,director_name FROM movies WHERE year_of_release BETWEEN 2018 AND 2022;
+-- 4. Retrieving all the attributes from 'movies' table whose 'year_of_release' between 2017,2022
+SELECT movie_name,lead_actor,actress,year_of_release,director_name FROM movies WHERE year_of_release BETWEEN 2017 AND 2022;
 
 
 -- 5. Sort the values of tables based on 'year_of_release' 
