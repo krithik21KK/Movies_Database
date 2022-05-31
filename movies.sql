@@ -37,5 +37,5 @@ SELECT movie_name,lead_actor,actress,year_of_release,director_name FROM movies W
 SELECT movie_name,lead_actor,actress,year_of_release,director_name FROM movies ORDER BY year_of_release;
 
 
--- 6. Retrieving all the 'movie_name','director_name' from 'movies' table that are not directed by 'Sandeep Reddy'
+-- 6. Retrieving all the 'movie_name','director_name' from 'movies' table that are not directed by 'Sukumar'
 SELECT movie_name,director_name FROM movies WHERE director_name!='Sukumar';
