@@ -10,7 +10,7 @@ CREATE TABLE movies(
 
 -- Inserting the values into 'movies' table
 INSERT INTO movies VALUES('Bahubali PART-1','Prabhas','Anushka',2016,'S Rajmouli');
-INSERT INTO movies VALUES('KGF Chapter 2','Yash','Srinidhi Shetty',2018,'Prashanth Neel');
+INSERT INTO movies VALUES('KGF Chapter 2','Yash','Srinidhi Shetty',2022,'Prashanth Neel');
 INSERT INTO movies VALUES('Arjun Reddy','Vijay Devarkonda','Shalini Pandey',2017,'Sandeep Reddy');
 INSERT INTO movies VALUES('Dil Bechara','Sushant Singh','Sanjana',2020,'Mukesh Chhabra');
 INSERT INTO movies VALUES('Pushpa The Rise','Allu Arjun','Rashmika',2021,'Sukumar');
